@@ -4,11 +4,14 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 ## 简介
 本字体是一款基于 [Y.OzFont](http://yozvox.web.infoseek.co.jp) 的手写风格的字体。目前已补全原字体中有对应繁体字的简体字，并补全了 4808 常用繁体中文汉字，以及 3500 常用简体中文汉字。
 
-在原 Y.OzFont 的基础上，字面缩小至原来的 95%，并优化西文和标点符号的显示。
+在原 Y.OzFont 的基础上，字面缩小至原来的 95%，优化西文和标点符号的显示；修改部分汉字的写法，使其接近中国内地的规范字形。
 
 > **注释**
 > - 4808 常用繁体中文汉字：指台湾教育部门规定的 4808 个常用汉字。
 > - 3500 常用简体中文汉字：指《现代汉语常用字表》规定的 3500 个常用汉字。
+
+## 更新日志
+[点击此处](https://github.com/lxgw/yozai-font/blob/master/History.md) 查看更新日志。
 
 ## 预览
 ![NhYFDf.png](https://s1.ax1x.com/2020/06/29/NhYFDf.png)
