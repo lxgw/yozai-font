@@ -2,9 +2,9 @@
 A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 
 ## 简介
-本字体是一款基于 [Y.OzFont](http://yozvox.web.infoseek.co.jp) 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字。目前已补全原字体中有对应繁体字的简体字，以及 GB 2312 范围内的所有汉字，并根据 [jf Open 粉圆](https://github.com/justfont/open-huninn-font) 的字库补全了繁体中文的常用汉字 *（包含台湾教育部门规定的 4808 个常用汉字）* 。
+本字体是一款基于 [Y.OzFont](http://yozvox.web.infoseek.co.jp) 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字 *（必要时自己用鼠标写出部件，如「餍」字里的「犬」、「蕤」字里的「豕」等）* 。目前已补全原字体中有对应繁体字的简体字，以及 GB 2312 范围内的所有汉字，并根据 [jf Open 粉圆](https://github.com/justfont/open-huninn-font) 的字库补全了繁体中文的常用汉字 *（包含台湾教育部门规定的 4808 个常用汉字）* 。
 
-在原 Y.OzFont 的基础上，字面缩小至原来的 95%，优化西文和标点符号的显示；修改部分汉字的写法，使其接近中国内地的规范字形。由于原版字形偏细，从 0.715 版本起，新增 Medium 字重。
+在原 Y.OzFont 的基础上，字面缩小至原来的 95%，优化西文和标点符号的显示；修改部分汉字的写法，使其接近中国内地的规范字形。由于原版字形偏细，从 0.715 版本起，新增 Medium *（中等）* 字重。
 
 ## 更新日志
 [点击此处](https://github.com/lxgw/yozai-font/blob/master/History.md) 查看更新日志。
