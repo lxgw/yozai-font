@@ -12,7 +12,7 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 ## 预览
 ![UBFIDU.png](https://s1.ax1x.com/2020/07/16/UBFIDU.png)
 ![UBFfg0.png](https://s1.ax1x.com/2020/07/16/UBFfg0.png)
-![UBFfg0.png](https://s1.ax1x.com/2020/07/16/UBFfg0.png)
+![UBFW3q.png](https://s1.ax1x.com/2020/07/16/UBFW3q.png)
 ![UBF5uT.png](https://s1.ax1x.com/2020/07/16/UBF5uT.png)
 ![UBFhvV.png](https://s1.ax1x.com/2020/07/16/UBFhvV.png)
 ![UBFobF.png](https://s1.ax1x.com/2020/07/16/UBFobF.png)
