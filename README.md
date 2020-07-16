@@ -10,11 +10,14 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 [点击此处](https://github.com/lxgw/yozai-font/blob/master/History.md) 查看更新日志。
 
 ## 预览
-![NhYFDf.png](https://s1.ax1x.com/2020/06/29/NhYFDf.png)
-![NhYEVS.png](https://s1.ax1x.com/2020/06/29/NhYEVS.png)
-![NhYVUg.png](https://s1.ax1x.com/2020/06/29/NhYVUg.png)
-![NhYiKP.png](https://s1.ax1x.com/2020/06/29/NhYiKP.png)
-![NhYCvt.png](https://s1.ax1x.com/2020/06/29/NhYCvt.png)
+![UBFIDU.png](https://s1.ax1x.com/2020/07/16/UBFIDU.png)
+![UBFfg0.png](https://s1.ax1x.com/2020/07/16/UBFfg0.png)
+![UBFfg0.png](https://s1.ax1x.com/2020/07/16/UBFfg0.png)
+![UBF5uT.png](https://s1.ax1x.com/2020/07/16/UBF5uT.png)
+![UBFhvV.png](https://s1.ax1x.com/2020/07/16/UBFhvV.png)
+![UBFobF.png](https://s1.ax1x.com/2020/07/16/UBFobF.png)
+![UBF7E4.png](https://s1.ax1x.com/2020/07/16/UBF7E4.png)
+![UBFHUJ.png](https://s1.ax1x.com/2020/07/16/UBFHUJ.png)
 
 ## 注意事项
 1. 本字体仍处于测试版，部分汉字还是处于日本写法，且字库并不是很全。 ***计划*** *更正 GB 2312 内汉字的写法为中国内地的字形。*
