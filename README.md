@@ -6,7 +6,7 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 
 在原 Y.OzFont 的基础上，字面缩小至原来的 95%，优化西文和标点符号的显示；修改部分汉字的写法，使其接近中国内地的规范字形。由于原版字形偏细，从 0.715 版本起，新增 Medium *（中等）* 字重。
 
-自 0.717 版本起，本字体共有 3 个字重： Light、Regular、Medium。
+自 0.717 版本起，本字体共有 4 个字重： Light、Regular、Medium、Bold。
 
 ## 更新日志
 [点击此处](https://github.com/lxgw/yozai-font/blob/master/History.md) 查看更新日志。
