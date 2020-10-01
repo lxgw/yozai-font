@@ -2,7 +2,7 @@
 A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 
 ## 简介
-本字体是一款基于 [Y.OzFont](http://yozvox.web.fc2.com) 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字 *（必要时自己用鼠标写出部件）* 。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 *（6763 个）* 、《通用规范汉字表》范围内的所有汉字 *（8105 个）* ，并根据 [jf Open 粉圆](https://github.com/justfont/open-huninn-font) 的字库补全了繁体中文的常用汉字 *（包含台湾教育部门规定的 4808 个常用汉字）* 。
+本字体是一款基于 [Y.OzFont](http://yozvox.web.fc2.com) 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字 *（必要时自己用鼠标写出部件）* 。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 *（6763 个）* 、《通用规范汉字表》范围内的所有汉字 *（8105 个）* ，BIG5-2003 范围内的所有汉字 *（13058 个，包含台湾教育部门规定的 4808 个常用汉字）* 。
 
 在原 Y.OzFont 的基础上，字面缩小至原来的 95%，优化西文和标点符号的显示；修改部分汉字的写法，使其接近中国内地的规范字形。由于原版字形偏细，从 0.715 版本起，新增 Medium *（中等）* 字重。
 
@@ -12,14 +12,16 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 [点击此处](https://github.com/lxgw/yozai-font/blob/master/History.md) 查看更新日志。
 
 ## 预览
-![UBFIDU.png](https://s1.ax1x.com/2020/07/16/UBFIDU.png)
-![UBFfg0.png](https://s1.ax1x.com/2020/07/16/UBFfg0.png)
-![UBFW3q.png](https://s1.ax1x.com/2020/07/16/UBFW3q.png)
-![UBF5uT.png](https://s1.ax1x.com/2020/07/16/UBF5uT.png)
-![UBFhvV.png](https://s1.ax1x.com/2020/07/16/UBFhvV.png)
-![UBFobF.png](https://s1.ax1x.com/2020/07/16/UBFobF.png)
-![UBF7E4.png](https://s1.ax1x.com/2020/07/16/UBF7E4.png)
-![UBFHUJ.png](https://s1.ax1x.com/2020/07/16/UBFHUJ.png)
+![0MU9eI.png](https://s1.ax1x.com/2020/10/01/0MU9eI.png)
+![0MUCwt.png](https://s1.ax1x.com/2020/10/01/0MUCwt.png)
+![0MUFFf.png](https://s1.ax1x.com/2020/10/01/0MUFFf.png)
+![0MUPTP.png](https://s1.ax1x.com/2020/10/01/0MUPTP.png)
+![0MUSOA.png](https://s1.ax1x.com/2020/10/01/0MUSOA.png)
+![0MUkY8.png](https://s1.ax1x.com/2020/10/01/0MUkY8.png)
+![0MUVSg.png](https://s1.ax1x.com/2020/10/01/0MUVSg.png)
+![0MUeyj.png](https://s1.ax1x.com/2020/10/01/0MUeyj.png)
+![0MUAfS.png](https://s1.ax1x.com/2020/10/01/0MUAfS.png)
+![0MUZlQ.png](https://s1.ax1x.com/2020/10/01/0MUZlQ.png)
 
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
