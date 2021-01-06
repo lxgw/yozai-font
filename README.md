@@ -37,8 +37,9 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 ## 版权信息
 - 本字体基于 SIL Open Font License 1.1 授权条款免费公开，您可以：
   - 免费使用，包括商用，无需付费、告知或标明原作者；
-  - 自由分享字体文件，并将其安装在任何软件/设备中；
-  - 在此基础上进行修改或二次创作。
+  - 自由分享字体文件，并将其安装在任何设备，或嵌入在任何软件中；
+  - 在此基础上进行修改或二次创作，二次修改的作品需要按照 SIL OFL 1.1 的规定释出。
+  - **请勿将字体文件倒卖兜售。**
   
 ## 鸣谢
 - [Y.OzFont](http://yozvox.web.fc2.com)
@@ -49,4 +50,4 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
 - **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884)
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
-- **Email：** calxgw2018@gmail.com srtong2006@126.com
+- **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
