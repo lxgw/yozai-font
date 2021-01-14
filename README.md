@@ -39,10 +39,19 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
   - 免费使用，包括商用，无需付费、告知或标明原作者；
   - 自由分享字体文件，并将其安装在任何设备，或嵌入在任何软件中；
   - 在此基础上进行修改或二次创作，二次修改的作品需要按照 SIL OFL 1.1 的规定释出。
-  - **请勿将字体文件倒卖兜售。**
+  - **请勿单独将字体文件倒卖兜售。**
   
 ## 鸣谢
 - [Y.OzFont](http://yozvox.web.fc2.com)
+
+## 其它项目
+### 日系字体中文化
+- [霞鹜晰黑 / Lxgw Clear Gothic](https://github.com/lxgw/LxgwClearGothic)
+- [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
+- [小赖字体 / Xiaolai Font (or Kose Font)](https://github.com/lxgw/kose-font)
+### 975 系列
+- [975 圆体 / 975 Maru](https://github.com/lxgw/975maru)
+- [975 黑体 / 975 Gothic](https://github.com/lxgw/975gothic)
 
 ## 联系作者
 
