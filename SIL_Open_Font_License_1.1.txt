@@ -1,4 +1,4 @@
-[Y.oz Font]
+[YOz Font]
 Copyright (C) Y.OzVox
 
 [Yozai Font]
