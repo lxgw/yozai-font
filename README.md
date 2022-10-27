@@ -54,7 +54,7 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 ### 日系字体中文化
 - [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)
 - [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [轻便版](https://github.com/lxgw/LxgwWenKai-Lite) | [屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen)
-- [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
+- [霞鹜新晰黑 / Lxgw Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [霞鹜晰黑 / Lxgw Clear Gothic](https://github.com/lxgw/LxgwClearGothic)
 - [小赖字体 / Xiaolai Font (or Kose Font)](https://github.com/lxgw/kose-font)
