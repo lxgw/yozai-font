@@ -68,3 +68,9 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 - **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少数派**](https://sspai.com/u/ng008g7q)
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/lxgw/yozai-font.svg)](https://starchart.cc/lxgw/yozai-font)
+
