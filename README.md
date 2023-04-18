@@ -38,6 +38,9 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 
 ## 授权信息
 本字体是基于 SIL Open Font License 1.1 改造的 Y.ozVoX 所开发并发布的 [YozFont](http://yozvox.web.fc2.com) 开源项目。保留名称「悠哉」「Yozai」。
+
+> [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
+
 ### 许可
 - 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。 *（但如果告知，我会很感激。）*
 - 这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
@@ -55,6 +58,7 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 - ~~[霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)~~
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
+- [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - ~~[霞鹜晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic)~~
 - [小赖字体 / Xiaolai Font (or Kose Font)](https://github.com/lxgw/kose-font)
