@@ -28,7 +28,7 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
 2. 进入 [码云（Gitee）镜像](https://gitee.com/lxgw2020/yozai-font) 点击【克隆/下载】->【下载 ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。 （供无法正常使用 GitHub 下载功能的地区使用，可能不是最新）
-3. 进入 [猫啃网](https://www.maoken.com/freefonts/5423.html) 下载，GitHub 项目更新后，会联系猫啃网站长进行同步更新。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
+3. 进入 [猫啃网](https://www.maoken.com/freefonts/5423.html)、[字加](https://www.zijia.com.cn/6536.html) 下载，GitHub 项目更新后，会联系站长进行同步更新。**注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
 4. [蓝奏云，密码 gimi](https://www.lanzoux.com/b0cqdtnpe)
 
 ## 注意事项
