@@ -14,16 +14,16 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 [点击此处](https://github.com/lxgw/yozai-font/blob/master/History.md) 查看更新日志。
 
 ## 预览
-![0MU9eI.png](https://s1.ax1x.com/2020/10/01/0MU9eI.png)
-![0MUCwt.png](https://s1.ax1x.com/2020/10/01/0MUCwt.png)
-![0MUFFf.png](https://s1.ax1x.com/2020/10/01/0MUFFf.png)
-![0MUPTP.png](https://s1.ax1x.com/2020/10/01/0MUPTP.png)
-![0MUSOA.png](https://s1.ax1x.com/2020/10/01/0MUSOA.png)
-![0MUkY8.png](https://s1.ax1x.com/2020/10/01/0MUkY8.png)
-![0MUVSg.png](https://s1.ax1x.com/2020/10/01/0MUVSg.png)
-![0MUeyj.png](https://s1.ax1x.com/2020/10/01/0MUeyj.png)
-![0MUAfS.png](https://s1.ax1x.com/2020/10/01/0MUAfS.png)
-![0MUZlQ.png](https://s1.ax1x.com/2020/10/01/0MUZlQ.png)
+![](./documentation/yozai-1.png)
+![](./documentation/yozai-2.png)
+![](./documentation/yozai-3.png)
+![](./documentation/yozai-4.png)
+![](./documentation/yozai-5.png)
+![](./documentation/yozai-6.png)
+![](./documentation/yozai-7.png)
+![](./documentation/yozai-8.png)
+![](./documentation/yozai-9.png)
+![](./documentation/yozai-a.png)
 
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
