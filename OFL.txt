@@ -1,5 +1,5 @@
-Copyright (C) Y.OzVox
-Copyright 2020 LXGW. The Yozai font is redistributed by LXGW, with Reserved Font Names 'Yozai' and '悠哉' under SIL Open Font License.
+Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)
+Copyright (c) 2021-03-07, Y.Oz (Y.OzVox) (http://yozvox.web.fc2.com), words containing "Y.Oz" or "YOz" are reserved as font names.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
