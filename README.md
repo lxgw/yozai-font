@@ -4,7 +4,7 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 [![猫啃网](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAfCAMAAABeSlSAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHyUExURQAAAAAA//8AAAAA//8AAAAA/wAA//8AAAAA//8AAAAA//8A//8AAAAA//8AAAAA//8AAAAA/wD///8AAAD/////AAD/////AP//AP//////AAD/////AAD/////AP///wD/////AP//AP//////AP//////AP///wD//////wD//wD/////////AP///wD//wD//wD/////AP///////////wD/////AP///wD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f////39/f39/f39/f39/f39/f7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v///y6UHskAAACldFJOUwADAwQEBQYGBwcICAkLCwwMDQ0NDhESEhMWFxgYGRkbHBwdHR8hIyQlJygpKSwsLS4yMjQ1Njc3ODk6PD5BQkNFRkdNUFFTVldaXF1fYGdqbnBxcnZ4eXt8gIGEhYaJio6RkpWXmJqbnJ2goqOlpqirrrCxs7S1trm7vr/BwsTHyMvMzc/Q0tPU2Nrb3N3f4uTm5+jp6+zt7vDx8vP19vf4+/z9/iyQxCoAAAAJcEhZcwAAFxEAABcRAcom8z8AAAHPSURBVDhPvZDpOxtRFIdvCJ1olaCLoqW1BF1U2tpJSlpFiK17NNE1DbGVoFVL20TRoMFUDDKS83+6Z+6tJjx9Hp+8X+b+fued88xcckLcmnl9nR8PkfVizoDPewHYcRYqVRQZr0TYfYinii0A2LReVOoDEiwrtN5txPNtMTj2B8BTH6OMGHc/A0huaduEoXg52FwwIEPY+7a1+opalV5uts/KEPp0s07aqkIj2wMv1XHmDbo0AqlTQ9rklRtoJI3DWLJ+MsxHf5mtFT7A98toCG/A9/jQBkR6/gNGzqJBLHu8O4pVrRgGiecjBJsUgeiWWPYNOtwBWk99dHlZs17KDO24Ep3nVHdMlV7ffaNRI/SEsPLkMENwYApUkUfb0K/XW0N7XTElv7GbSGZGghOTWBpno29dpT8PfWd0vxQjlRmJw8yItwPM52onAPq5MX3huIbw/n8GvzBC75+mzbJIo3iZVuFn7MIIKcIX5I7TEUZLkFb+ci6Q2G5cstrQC7CQf/4rgKtmEVfYNFwgJO0dXpAs0vbLKLXFHRrBfYmPkZQe3BpFyJXJhwxV/Tc+4fw0n+KjA+Ibhvx8CmvDjf8+IYprJsuTp+0P8ng8OQjZB5l3H1123DZyAAAAAElFTkSuQmCC)](https://www.maoken.com/freefonts/4306.html)
 
 ## 简介
-本字体是一款基于 [Y.OzFont](http://yozvox.web.fc2.com) 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字 *（必要时自己用鼠标写出部件）* 。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 *（6763 个）* 、《通用规范汉字表》范围内的所有汉字 *（8105 个）* ，BIG5 范围内的所有汉字 *（13058 个）* 。
+本字体是一款基于 [Y.OzFont](http://yozvox.web.fc2.com) 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字 *（必要时自己用鼠标写出部件）* 。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 *（6763 个）* 、《通用规范汉字表》范围内的所有汉字 *（8105 个）* ，BIG5 范围内的所有汉字 *（13058 个）* 。自 0.860 版本起，采用 zi2zi 深度学习补全 CJK 统一表意文字基本区 20992 字，并按需增补少量扩展区汉字。
 
 在原 Y.OzFont 的基础上，字面缩小至原来的 95%，优化西文和标点符号的显示；修改部分汉字的写法，使其接近中国内地的规范字形。由于原版字形偏细，从 0.715 版本起，新增 Medium *（中等）* 字重。
 
@@ -26,13 +26,13 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 ![](./documentation/yozai-a.png)
 
 ## 字体下载
-1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
-2. 进入 [码云（Gitee）镜像](https://gitee.com/lxgw2020/yozai-font) 点击【克隆/下载】->【下载 ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。 （供无法正常使用 GitHub 下载功能的地区使用，可能不是最新）
+1. 进入 [Releases](https://github.com/lxgw/yozai-font/releases) 界面下载。
+2. ~~进入 [码云（Gitee）镜像](https://gitee.com/lxgw2020/yozai-font) 点击【克隆/下载】->【下载 ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。 （供无法正常使用 GitHub 下载功能的地区使用，可能不是最新）~~
 3. 进入 [猫啃网](https://www.maoken.com/freefonts/5423.html)、[字加](https://www.zijia.com.cn/6536.html) 下载，GitHub 项目更新后，会联系相关负责人进行同步更新。**注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
 4. [蓝奏云，密码 gimi](https://www.lanzoux.com/b0cqdtnpe)
 
 ## 注意事项
-1. 本字体仍处于测试版，部分汉字还是处于日本写法，且字库并不是很全。 ***计划：*** *更正 GB 2312 内汉字的写法为中国内地的字形，补全 CJK 统一汉字基本区内的所有汉字。*
+1. 本字体仍处于测试版，部分汉字还是处于日本写法，~~且字库并不是很全。~~ ***计划：*** *更正 GB 2312 内汉字的写法为中国内地的字形，~~补全 CJK 统一汉字基本区内的所有汉字~~。*
 2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。但聊胜于无。欢迎大家通过 Issues 反馈。
 3. 欢迎大家对该字体进行补字或修正，您可以通过下面的联系方式与作者联系。
 
@@ -52,19 +52,26 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
   
 ## 鸣谢
 - [Y.OzFont](http://yozvox.web.fc2.com)
+- [zi2zi-pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch)
 
-## 其它项目
-### 日系字体中文化
-- ~~[霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)~~
-- [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [传承字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
+## 更多「霞鹜」系列字体
+### 「霞鹜文楷」系列
+- [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
+- [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
+- [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenKaiTC)
+### 「晰致尚铭」系列
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
+- [霞鹜晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
+- [霞鹜致宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
+- [霞鹜尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic) 停止维护
+- [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif) 停止维护
+### 其他
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
-- ~~[霞鹜晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic)~~
-- [小赖字体 / Xiaolai Font (or Kose Font)](https://github.com/lxgw/kose-font)
-### 975 系列
-- [975 圆体 / 975 Maru](https://github.com/lxgw/975maru)
-- [975 黑体 / 975 Gothic](https://github.com/lxgw/975gothic)
+- [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)
+- [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
+- **悠哉字体 / Yozai**
+  
 
 ## 关注作者
 - **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwfont)
