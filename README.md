@@ -44,17 +44,18 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 
 ## 授权信息
 本字体是基于 SIL Open Font License 1.1 改造的 Y.ozVoX 所开发并发布的 [YozFont](http://yozvox.web.fc2.com) 开源项目。保留名称「悠哉」「Yozai」。
+本字体是基于 Y.ozVoX 所发布的开源字体 [YozFont](http://yozvox.web.fc2.com) 改造而成的衍生项目，遵循 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 开源协议。
 
 > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
 
 ### 许可
-- 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。 *（但如果告知，我会很感激。）*
-- 这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
-- 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL](https://scripts.sil.org/OFL) 公开。
+- 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。（但如果告知，我会很感激。🫶）
+- 这款字体可以自由传播、分享，或者将字体安装于系统、嵌入于软件或 APP 中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
+- 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样遵守 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 所规定的条款与条件。
+
 ### 限制
-- 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。
-- 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
-- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+- 根据 OFL 1.1「许可与条件」中第 1 条的规定，**禁止单独出售字体文件**（OTF/TTF 格式文件）。
+- 根据 OFL 1.1「许可与条件」中第 5 条的规定，该字体不可在 OFL 1.1 以外的授权许可下发行，亦不可将该字体与可能造成许可证冲突的其他协议字体（如 GNU GPL、IPA 等）混合至同一字体文件。
   
 ## 鸣谢
 - [Y.OzFont](http://yozvox.web.fc2.com)
