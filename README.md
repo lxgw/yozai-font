@@ -61,7 +61,7 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 - [Y.OzFont](http://yozvox.web.fc2.com)
 - [zi2zi-pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch)
 
-## 更多「霞鹜」系列字体
+## 更多「霞鹜」开源字体
 ### 「霞鹜文楷」系列
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
@@ -88,7 +88,13 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
 
 
-## Stargazers over time
+## Star History
 
-[![Stargazers over time](https://starchart.cc/lxgw/yozai-font.svg)](https://starchart.cc/lxgw/yozai-font)
+<a href="https://www.star-history.com/?repos=lxgw%2Fyozai-font&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=yozai-font&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=yozai-font&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=yozai-font&type=date&legend=top-left" />
+ </picture>
+</a>
 
