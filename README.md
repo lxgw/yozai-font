@@ -92,9 +92,9 @@ A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 
 <a href="https://www.star-history.com/?repos=lxgw%2Fyozai-font&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=yozai-font&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=yozai-font&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=yozai-font&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lxgw/yozai-font&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lxgw/yozai-font&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lxgw/yozai-font&type=date&legend=top-left" />
  </picture>
 </a>
 
