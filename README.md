@@ -3,6 +3,7 @@
 > 近来发现，包括本字体在内的众多开源字体在淘宝、小红书等平台被不法商家倒卖，违反了 OFL 1.1 中「不得单独售卖字体文件」的条款。如您遇到此类店铺贩售本字体，**请不要购买！** 您支付的款项**不会**流向作者，您也**无法**获得任何更新或支持。
 
 # 悠哉字体 / Yozai Font
+<p align="center"><a href="./README.md">简体中文</a> · <a href="./README.en.md">English</a></p>
 A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 
 [![开源授权](https://img.shields.io/github/license/lxgw/yozai-font?style=flat-square)](https://github.com/lxgw/yozai-font)
