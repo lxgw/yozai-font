@@ -5,6 +5,7 @@
 >  - 贩售**多款 OFL 字体组成的合集**，可适用「聚合（aggregate）豁免」。OFL 作为通过 OSI 认证的许可证，必须允许这类行为，否则将违反[《OSI 开源定义》](https://open-source.org.cn/osd)第一条「自由再分发（Free Redistribution）」（可参考 [OFL 官方 FAQ 第 1.5 条](https://openfontlicense.org/ofl-faq/)及 [OSI 邮件列表中的相关确认](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2008-November/000396.html)）。因此，将多款 OFL 字体（包括本字体）打包贩售的行为，在满足 OFL 所规定的其他条款的前提下，属于协议层面的合规聚合分发，不构成违约或对本人著作权的侵害。如您遇到某些店铺贩售此类字体合集，**购买前请知悉：您支付的款项不会流向作者，您也无法获得任何更新或支持**。
 
 # 悠哉字体 / Yozai Font
+<p align="center"><a href="./README.md">简体中文</a> · <a href="./README.en.md">English</a></p>
 A Chinese font derived from Y.OzFont. 一款衍生于 YozFont 的中文字体。
 
 [![开源授权](https://img.shields.io/github/license/lxgw/yozai-font?style=flat-square)](https://github.com/lxgw/yozai-font)
